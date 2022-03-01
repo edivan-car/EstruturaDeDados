@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+H:\Projetos\ws-visualStudio\EstruturaDeDados\BubbleSortCrescente\BubbleSortCrescente\Origem.cpp(12,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  BubbleSortCrescente.vcxproj -> H:\Projetos\ws-visualStudio\EstruturaDeDados\BubbleSortCrescente\x64\Debug\BubbleSortCrescente.exe
