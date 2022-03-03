@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+H:\Projetos\ws-visualStudio\EstruturaDeDados\BuscaBinaria\BuscaBinaria\Origem.cpp(17,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+H:\Projetos\ws-visualStudio\EstruturaDeDados\BuscaBinaria\BuscaBinaria\Origem.cpp(16,22): warning C4101: 'i': variável local não referenciada
+  BuscaBinaria.vcxproj -> H:\Projetos\ws-visualStudio\EstruturaDeDados\BuscaBinaria\x64\Debug\BuscaBinaria.exe

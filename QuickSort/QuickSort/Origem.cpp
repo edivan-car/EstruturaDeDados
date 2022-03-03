@@ -6,7 +6,7 @@ void QuickSort(int vet[], int p, int u);
 int particao(int vet[], int p, int u);
 void troca(int vet[], int i, int j);
 
-#define TAMANHOVETOR 10
+#define TAMANHOVETOR 100000
 
 int main()
 {
@@ -15,7 +15,7 @@ int main()
 
 	// INSERÇÃO DE DADOS
 	for (int i = 0; i < TAMANHOVETOR; i++) {
-		vet[i] = rand() % 100; // gera valores aleatórios de 0 à 99
+		vet[i] = rand() % 10000; // gera valores aleatórios de 0 à 99
 	}
 
 	printf("VETOR NAO ORDENADO: \n");
